@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Sci-Fi Innovation Club Banner](https://via.placeholder.com/800x300/1a1a2e/ffffff?text=Sci-Fi+Innovation+Club)
+
 
 [![Website](https://img.shields.io/badge/Website-scifi--innovation.in-blue?style=for-the-badge&logo=firefox)](https://scifi-innovation.in/)
 [![Email](https://img.shields.io/badge/Email-scifiinnovationclub%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:scifiinnovationclub@gmail.com)
@@ -46,8 +46,6 @@ To become the premier hub for technological innovation and scientific exploratio
 - **Technical Workshops**: Hands-on sessions on emerging technologies
 - **Hackathons**: 24-48 hour intensive coding competitions
 - **Tech Talks**: Guest lectures from industry experts and alumni
-- **Study Groups**: Peer-to-peer learning sessions
-- **Certification Programs**: Industry-recognized skill development courses
 - **Research Projects**: Academic and applied research initiatives
 
 ### 🏆 Events & Competitions
@@ -57,24 +55,6 @@ To become the premier hub for technological innovation and scientific exploratio
 - **Code Wars**: Programming competitions and algorithm challenges
 - **Project Exhibitions**: Showcasing member innovations and achievements
 - **Industry Meetups**: Networking with professionals and potential employers
-
----
-
-## 📁 Our Repositories & Projects
-
-### 🌐 Featured Projects
-- **[Sci-Fi Club Website](https://github.com/SciFi-Innovation-Club/sci-fi-cu)** - Our official website built with modern web technologies
-- **[AI Learning Hub](https://github.com/SciFi-Innovation-Club/ai-learning-hub)** - Comprehensive AI/ML learning resources and projects
-- **[Blockchain Playground](https://github.com/SciFi-Innovation-Club/blockchain-playground)** - Smart contracts and DApps for learning
-- **[IoT Workshop Series](https://github.com/SciFi-Innovation-Club/iot-workshop-series)** - Arduino and Raspberry Pi project guides
-- **[Open Source Contributions](https://github.com/SciFi-Innovation-Club/oss-contributions)** - Tracking our contributions to open source
-
-### 🚀 Current Initiatives
-- **Campus Smart Solutions**: IoT-based solutions for university infrastructure
-- **Student Portal Enhancement**: Contributing to university digital platforms
-- **Community Learning Platform**: Building a collaborative learning ecosystem
-- **Research Publications**: Academic papers and technical documentation
-- **Industry Partnerships**: Collaborative projects with tech companies
 
 ---
 
@@ -109,38 +89,12 @@ To become the premier hub for technological innovation and scientific exploratio
 
 ---
 
-## 👥 Team Structure & Leadership
-
-### Core Team Roles
-- **President**: Overall leadership and strategic direction
-- **Vice President**: Operations and member coordination  
-- **Technical Lead**: Project oversight and technical guidance
-- **Event Coordinator**: Workshop and event management
-- **Public Relations**: Communication and outreach
-- **Treasurer**: Budget management and resource allocation
-
-### Specialized Teams
-- **Development Team**: Software engineering and project development
-- **Research Team**: Academic research and publication
-- **Design Team**: UI/UX design and creative content
-- **Content Team**: Documentation and educational materials
-- **Outreach Team**: Community engagement and partnerships
-
-### Advisory Board
-- Faculty advisors from Computer Science and Engineering departments
-- Industry mentors from leading tech companies
-- Alumni working in prominent tech organizations
-- Startup founders and entrepreneurs
-
----
-
 ## 🤝 How to Join & Contribute
 
 ### Membership Benefits
 - 🎓 Access to exclusive workshops and training sessions
 - 💼 Networking opportunities with industry professionals
 - 🏆 Participation in competitions and hackathons
-- 📜 Certificates and recognition for contributions
 - 🚀 Leadership and skill development opportunities
 - 🌐 Global collaboration on open-source projects
 
@@ -161,67 +115,6 @@ To become the premier hub for technological innovation and scientific exploratio
 
 ---
 
-## 📅 Upcoming Events & Activities
-
-### Monthly Events
-- **First Friday**: Monthly tech talks and guest lectures
-- **Weekend Workshops**: Hands-on technical training sessions
-- **Code Review Sessions**: Peer learning and code improvement
-- **Project Showcase**: Monthly demo of ongoing projects
-
-### Annual Calendar
-- **September**: Fresher Orientation and Recruitment Drive
-- **October**: Hacktoberfest Participation and Open Source Month
-- **November**: Annual Tech Fest and Innovation Exhibition
-- **December**: Year-end Project Submissions and Awards
-- **January**: Industry Visit and Internship Fair
-- **February**: Research Paper Submission and Conference Participation
-- **March**: Final Year Project Showcase and Alumni Meet
-- **April**: Summer Project Planning and Team Formation
-
----
-
-## 🌐 Community & Partnerships
-
-### Academic Partnerships
-- **Research Collaborations**: Joint projects with other universities
-- **Faculty Exchange**: Shared expertise and resources
-- **Conference Participation**: Presenting at academic conferences
-- **Publication Support**: Co-authored research papers
-
-### Industry Connections
-- **Internship Programs**: Placement support for members
-- **Mentorship**: Guidance from industry professionals
-- **Project Sponsorship**: Funding for innovative projects
-- **Job Referrals**: Career opportunities for graduates
-
-### Global Community
-- **International Collaborations**: Projects with clubs worldwide
-- **Exchange Programs**: Student and knowledge exchange
-- **Online Communities**: Discord, Slack, and social media presence
-- **Open Source Ecosystem**: Contributing to global projects
-
----
-
-## 📊 Achievements & Milestones
-
-### Club Achievements
-- 🏆 **Winner**: Best Technical Society Award 2023
-- 📈 **Growth**: 500+ active members across all years
-- 🚀 **Projects**: 100+ successful project completions
-- 🌟 **Recognition**: Featured in university newsletter and website
-- 💼 **Placements**: 80% placement rate for active members
-- 📝 **Publications**: 15+ research papers and technical articles
-
-### Member Success Stories
-- Alumni working at Google, Microsoft, Amazon, and other top tech companies
-- Successful startup founders and entrepreneurs
-- Research scholars pursuing advanced degrees
-- Open source contributors with global recognition
-- Award winners in national and international competitions
-
----
-
 ## 📞 Contact & Connect
 
 ### Primary Contact
@@ -230,17 +123,9 @@ To become the premier hub for technological innovation and scientific exploratio
 - 📍 **Location**: Chandigarh University, Punjab, India
 
 ### Social Media & Online Presence
-- 💬 **Discord**: [Join our community server](https://discord.gg/scifi-innovation)
 - 📘 **LinkedIn**: [Sci-Fi Innovation Club CU](https://linkedin.com/company/scifi-innovation-club)
 - 📸 **Instagram**: [@scifiinnovationclub](https://instagram.com/scifiinnovationclub)
-- 🐦 **Twitter**: [@SciFiClubCU](https://twitter.com/SciFiClubCU)
 - ▶️ **YouTube**: [Sci-Fi Innovation Tutorials](https://youtube.com/@scifiinnovationclub)
-
-### Office Hours & Meetings
-- **Regular Meetings**: Every Friday 5:00 PM - 7:00 PM
-- **Office Hours**: Monday-Friday 2:00 PM - 6:00 PM
-- **Location**: Computer Science Building, Room 301
-- **Online Sessions**: Discord voice channels for remote members
 
 ---
 
@@ -266,24 +151,6 @@ To become the premier hub for technological innovation and scientific exploratio
 - Spamming or inappropriate content sharing
 - Disrupting meetings or events
 - Sharing confidential or sensitive information
-
----
-
-## 🚀 Future Roadmap
-
-### Short-term Goals (6 months)
-- Launch new website with enhanced features
-- Establish partnerships with 5 tech companies
-- Organize inter-university hackathon
-- Publish club research journal
-- Reach 1000+ GitHub stars across projects
-
-### Long-term Vision (2-3 years)
-- Become recognized nationally as top student tech society
-- Establish annual international tech conference
-- Launch startup incubation program
-- Create scholarship fund for deserving members
-- Develop proprietary educational platform
 
 ---
 
